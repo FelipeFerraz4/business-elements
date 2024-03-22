@@ -5,7 +5,7 @@ import { ContainerHome } from './styles';
 function Home() {
     return(
         <ContainerHome>
-            <Header title={'Olá Gestor'} subTitle={'Adicione um funcionario'}/>
+            <Header title={'Hello Manager'} subTitle={'Add an employee'}/>
             <Form title={'Employee'}/>
         </ContainerHome>
     );
